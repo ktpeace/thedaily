@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    padding-top: 50px;
+    margin-bottom: 120px;
+    font-weight: 800;
+    font-size: 3.5rem;
+}
+
+.pressme {
+    font-weight: 500;
+    background-color: rgb(112, 85, 156);
+    border: rebeccapurple;
+}
+
+.pressme:hover {
+    background-color: rgb(165, 108, 223);
+}
